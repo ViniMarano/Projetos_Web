@@ -1,0 +1,82 @@
+* body
+	{
+		background: #FFF;
+	}
+
+
+h4
+	{
+		font-family: 'Ubuntu', sans-serif;
+		color: #7371FC;
+		font-size: 30px;
+	}
+
+
+a
+	{
+		font-family: 'Hepta Slab', serif;
+		text-decoration: none;
+		color:#39393A;
+		font-size: 18px;
+	}
+
+
+a:hover
+	{
+		color: #FE5F55;
+	}
+
+
+p
+	{
+		font-family: 'Hepta Slab', serif;
+		font-size: 18px;
+		line-height: 22px; 
+	}
+
+
+
+h2
+	{
+		font-family: 'Hepta Slab', serif;
+		text-decoration: none;
+		color:#39393A;
+		font-size: 18px;	
+	}
+
+
+h3
+	{
+		font-family: 'Hepta Slab', serif;
+		text-decoration: none;
+		color:#39393A;
+		font-size: 18px;
+	}
+
+
+
+form
+	{
+		font-family: 'Hepta Slab', serif;
+		text-decoration: none;
+		color:#39393A;
+		font-size: 18px;
+	}
+
+
+.nome
+	{
+		font-size: 20px;
+		margin: 15px;
+	}
+
+
+input
+	{
+		border: 2px solid;
+	}
+
+textarea
+	{
+		border: 2px solid;
+	}
