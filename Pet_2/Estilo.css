@@ -1,0 +1,84 @@
+* body
+	{
+		background: #FFF;
+		font-family: 'Hepta Slab', serif; 
+	}
+
+
+#topo
+	{
+		width: 1024px;
+		height: auto;
+		margin: 0 auto;
+	}
+
+
+#menu
+	{
+		width: 1024px;
+		height: 30px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+
+#menu ul
+	{
+		padding: 0;
+		margin: 0;
+		list-style: none;
+	}
+
+
+#menu ul li
+	{
+		display: inline;
+	}
+
+
+#menu ul li a
+	{
+		font-family: 'Hepta Slab', serif;
+		text-decoration: none;
+		color: #39393A;
+		font-size: 18px;
+		padding: 5px 5px;
+		display: inline-block;
+	}
+
+
+#menu ul li a:hover 
+	{
+		color: #FE5F55;
+		border-bottom: 1px solid #FE5F55;
+	}
+
+
+#conteudo
+	{
+		width: 1024px;
+		height: auto;
+		margin: 0 auto;
+	}
+
+
+#conteudo a
+	{
+		text-decoration: none;
+		color: #39393A;
+	}
+
+
+
+#conteudo a:hover
+	{
+		color: #FE5F55;
+	}
+
+
+#rodape
+	{
+		width: 1024px;
+		height: auto;
+		margin: 0 auto;
+	}
