@@ -1,0 +1,88 @@
+body{
+	background: #D7DEE5;
+}
+
+h2{
+	font-size: 24px;
+	color:#20b2aa;
+}
+
+main{
+	margin-left: 120px;
+}
+
+.box{
+	display: block;
+	float: left;
+	width: 20%;
+	padding: 70px;
+	padding-left: 12px;
+}
+.box img{
+	width: 100%;
+	border-radius: 8px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	padding: 1px;
+	background: grey;
+
+}
+.box img:hover{
+	transform: scale(2,2);
+	border-radius: 8px;
+}
+#rodape a
+		{
+			color: #39393A;
+			text-decoration: none;
+		}	
+#rodape a:hover
+		{
+			color: #FE5F55;
+		}
+#rodape
+		{
+			width: 1024px;
+			margin: center;
+			
+		}
+
+
+
+#topo {
+	width: 1024px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+#menu {
+	width: 1024px;
+	height: 30px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#menu ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+#menu ul li {
+	display: inline;	
+}
+
+#menu ul li a {
+	font-family: 'Hepta Slab' serif;
+	text-decoration: none;
+	color: #39393A;
+	font-size: 18px;
+	padding: 10px 10px;
+	display: inline-block;
+}
+
+#menu ul li a:hover {
+	color: #EE202C;
+	border-bottom: 1px solid #EE202C;	
